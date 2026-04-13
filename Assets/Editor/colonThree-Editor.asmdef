@@ -1,0 +1,10 @@
+{
+  "name": "colonThree-Editor",
+  "references": [
+    "colonThree"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
